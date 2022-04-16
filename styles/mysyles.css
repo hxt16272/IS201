@@ -1,0 +1,44 @@
+body{
+    background-color: beige;
+}
+
+.box{
+    background-color: beige !important;
+}
+.TC{
+    color:rgba(0, 0, 0, 0.55) !important;
+}
+
+.Top{
+    color:#6c757d;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: beige;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #0085A1;
+
+}
+.li{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.subheading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightblue;
+    font-style: italic;
+
+    
+}
+.index-photos-container {
+    text-align: center;
+}
+.index-photos-container .index-photos {
+    display: inline-block;
+}
